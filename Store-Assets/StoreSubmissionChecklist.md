@@ -13,11 +13,14 @@ Reserved product name: `m3Coding: Simple Hash Checker`
 ## Store Listing
 
 - Category: Utilities & tools
+- Subcategory: File managers
+- Pricing: Free
 - Short description: use `Store-Assets/StoreListing.md`
 - Full description: use `Store-Assets/StoreListing.md`
 - Keywords: use `Store-Assets/StoreListing.md`
 - Copyright: `Copyright (c) 2026 m3 Coding. All rights reserved.`
 - Privacy policy: use `Store-Assets/PrivacyPolicy.txt`
+- Privacy policy URL submitted: `https://raw.githubusercontent.com/matrixxx1/SimpleHashChecker-Windows/main/Store-Assets/PrivacyPolicy.txt`
 
 ## Age Rating Notes
 
@@ -30,7 +33,18 @@ Reserved product name: `m3Coding: Simple Hash Checker`
 
 ## Package
 
-Upload the latest package from `Store-Assets/Packages` after a successful Release package build. The current handoff package is signed with the included temporary local test certificate; Partner Center may re-sign the package during ingestion, but use the Visual Studio Store packaging flow if Partner Center requires a Store-associated signing certificate.
+Uploaded and validated in Partner Center: `Store-Assets/Packages/m3Coding.SimpleHashChecker_1.0.0.0_x64.msix`.
+
+The current handoff package is signed with the included temporary local test certificate; Partner Center accepted and validated the package during ingestion.
+
+## Partner Center Draft Status
+
+- Pricing and availability: Complete
+- Properties: Complete
+- Age ratings: Complete
+- Packages: Complete
+- Store listings: Complete
+- Submit for certification button: Enabled, not clicked
 
 ## Testing Notes
 

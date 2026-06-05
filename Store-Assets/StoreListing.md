@@ -52,5 +52,12 @@ Copyright (c) 2026 m3 Coding. All rights reserved.
 ## Screenshots
 
 - Main file selection: `Store-Assets/Screenshots/01-main-file-selection.png`
-- Calculated SHA256 hash: `Store-Assets/Screenshots/02-calculated-sha256.png`
+- Calculated SHA256 hash: `Store-Assets/Screenshots/02-file-loaded.png`
 - Expected hash comparison: `Store-Assets/Screenshots/03-hash-comparison.png`
+
+## Partner Center Values Used
+
+- Pricing: Free, worldwide markets, public and discoverable
+- Category: Utilities + tools
+- Subcategory: File managers
+- Privacy policy URL: `https://raw.githubusercontent.com/matrixxx1/SimpleHashChecker-Windows/main/Store-Assets/PrivacyPolicy.txt`
