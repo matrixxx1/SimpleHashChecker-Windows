@@ -44,7 +44,8 @@ The current handoff package is signed with the included temporary local test cer
 - Age ratings: Complete
 - Packages: Complete
 - Store listings: Complete
-- Submit for certification button: Enabled, not clicked
+- Submission status: In certification
+- Current certification stage: Pre-processing
 
 ## Testing Notes
 
