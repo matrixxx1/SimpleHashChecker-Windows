@@ -1,0 +1,8 @@
+No credentials are required.
+
+To test the app:
+1. Launch m3Coding: Simple Hash Checker.
+2. Drag any local file into the app or use Browse for file.
+3. Click MD5, SHA1, SHA256, or SHA512.
+4. Use Copy to clipboard.
+5. Paste the calculated value into Expected hash and confirm that the app reports a match.

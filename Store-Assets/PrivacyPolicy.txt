@@ -1,0 +1,5 @@
+m3Coding: Simple Hash Checker does not collect, transmit, sell, or share personal information.
+
+Files selected by the user are read locally only to calculate MD5, SHA1, SHA256, or SHA512 hashes. File contents and calculated hashes are not sent to m3 Coding or any third party by this app.
+
+The app does not require an account, does not include advertising, and does not use analytics.
